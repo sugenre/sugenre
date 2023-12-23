@@ -11,7 +11,7 @@
 </p>
 
 <div style="text-align: left">
-<h3>⚙️ Things I code with </h3><br>
+<h3>⚙️ Things I code with </h3>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-plasic&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-plasic&logo=Markdown&logoColor=white"><br>
   
@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/notion-000000?style=for-the-plasic&logo=notion&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-plasic&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-plasic&logo=slack&logoColor=white">
-</div>
+</div><br>
 
 <div style="text-align: left">
 <h3>💭 Project</h3>
