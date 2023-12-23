@@ -11,7 +11,7 @@
 </p>
 
 <div style="text-align: left">
-<h3>⚙️ Things I code with </h3>
+<h3>⚙️ STACKS </h3>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-plasic&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-plasic&logo=Markdown&logoColor=white"><br>
   
@@ -19,6 +19,9 @@
 <img src="https://img.shields.io/badge/numpy-013243?style=for-the-plasic&logo=numpy&logoColor=white">
 <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-plasic&logo=tensorflow&logoColor=white">
 <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-plasic&logo=scikitlearn&logoColor=white"><br>
+
+<img src="https://img.shields.io/badge/apacheairflow-017CEE?style=for-the-plasic&logo=apacheairflow&logoColor=white">
+<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-plasic&logo=docker&logoColor=white">
 
 <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-plasic&logo=visualstudiocode&logoColor=white">
 <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-plasic&logo=jupyter&logoColor=white">
