@@ -18,16 +18,23 @@
 <img src="https://img.shields.io/badge/pandas-150458?style=for-the-plasic&logo=pandas&logoColor=white">
 <img src="https://img.shields.io/badge/numpy-013243?style=for-the-plasic&logo=numpy&logoColor=white">
 <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-plasic&logo=tensorflow&logoColor=white">
-<img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-plasic&logo=scikitlearn&logoColor=white">
-<img src="https://img.shields.io/badge/tableau-E97627?style=for-the-plasic&logo=tableau&logoColor=white"><br>
+<img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-plasic&logo=scikitlearn&logoColor=white"><br>
 
 <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-plasic&logo=visualstudiocode&logoColor=white">
 <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-plasic&logo=jupyter&logoColor=white">
-<img src="https://img.shields.io/badge/anaconda-44A833?style=for-the-plasic&logo=anaconda&logoColor=white"><br>
+<img src="https://img.shields.io/badge/anaconda-44A833?style=for-the-plasic&logo=anaconda&logoColor=white">
+<img src="https://img.shields.io/badge/tableau-E97627?style=for-the-plasic&logo=tableau&logoColor=white"><br>
 
 <img src="https://img.shields.io/badge/notion-000000?style=for-the-plasic&logo=notion&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-plasic&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-plasic&logo=slack&logoColor=white">
+</div>
+
+<div style="text-align: left">
+<h3>💭 Project</h3>
+- 팀 프로젝트 : 
+  https://img.shields.io/badge/lg-A50034?style=for-the-badge&logo=LG_HV_vod_recommender_system-&logoColor=black<br>
+- 개인 프로젝트 : 
 </div>
 
 
