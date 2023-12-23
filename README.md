@@ -1,9 +1,9 @@
-### Welcome to my github profile! 👋
+<CENTER> ### Welcome to my github profile! 👋 </CENTER>
 
-안녕하세요.
-데이터분석가와 데이터 엔지니어의 꿈꾸, 항상 배우려는 자세로 학습에 임하고 있습니다.
-배움의 성과뿐만 아니라 과정도 중요하게 여기며 성장하겠습니다.
-😊
+<CENTER>안녕하세요.  </CENTER>
+<CENTER> **데이터분석가**와 **데이터 엔지니어** 꿈꾸며, 항상 배우려는 자세로 학습에 임하고 있습니다.
+배움의 성과뿐만 아니라 과정도 중요하게 여기며 성장하겠습니다. </CENTER>
+<CENTER>😊</CENTER>CENTER>
 
 ⚙️ Things I code with
 #3776AB
