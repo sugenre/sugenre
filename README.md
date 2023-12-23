@@ -1,9 +1,12 @@
-<CENTER> ### Welcome to my github profile! 👋 </CENTER>
+<p align="center">
+  <h3>Welcome to my GitHub profile! 👋</h3>
+</p>
 
-<CENTER>안녕하세요.  </CENTER>
-<CENTER> **데이터분석가**와 **데이터 엔지니어** 꿈꾸며, 항상 배우려는 자세로 학습에 임하고 있습니다.
-배움의 성과뿐만 아니라 과정도 중요하게 여기며 성장하겠습니다. </CENTER>
-<CENTER>😊</CENTER>CENTER>
+<p align="center">
+  안녕하세요. <br>
+  <strong>데이터분석가</strong>와 <strong>데이터 엔지니어</strong> 꿈꾸며, 항상 배우려는 자세로 학습에 임하고 있습니다. <br>
+  배움의 성과뿐만 아니라 과정도 중요하게 여기며 성장하겠습니다. 😊
+</p>
 
 ⚙️ Things I code with
 #3776AB
