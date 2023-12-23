@@ -10,8 +10,8 @@
 <p align="center">😊
 </p>
 
-⚙️ Things I code with
-https://img.shields.io/badge/just%20the%20message-3776AB
+⚙️ Things I code with <br>
+https://shields.io/badge/style-flat-green?logo=appveyor&style=flat-3776AB
 
 
 <!--
