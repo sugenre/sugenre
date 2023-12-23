@@ -10,23 +10,25 @@
 <p align="center">😊
 </p>
 
-<p align="left">
-⚙️ Things I code with <br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=white">
-<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-<img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-<img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=white">
-<img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
-<img src="https://img.shields.io/badge/tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
-<img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-<img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
-<img src="https://img.shields.io/badge/anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white">
-<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
-</p>
+<div style="text-align: left">
+<h3>⚙️ Things I code with </h3><br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-plasic&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-plasic&logo=Markdown&logoColor=white"><br>
+  
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-plasic&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/numpy-013243?style=for-the-plasic&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-plasic&logo=tensorflow&logoColor=white">
+<img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-plasic&logo=scikitlearn&logoColor=white">
+<img src="https://img.shields.io/badge/tableau-E97627?style=for-the-plasic&logo=tableau&logoColor=white"><br>
+
+<img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-plasic&logo=visualstudiocode&logoColor=white">
+<img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-plasic&logo=jupyter&logoColor=white">
+<img src="https://img.shields.io/badge/anaconda-44A833?style=for-the-plasic&logo=anaconda&logoColor=white"><br>
+
+<img src="https://img.shields.io/badge/notion-000000?style=for-the-plasic&logo=notion&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-plasic&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/slack-4A154B?style=for-the-plasic&logo=slack&logoColor=white">
+</div>
 
 
 <!--
