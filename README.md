@@ -1,6 +1,6 @@
 <div align="center">
   <h3>Welcome to my GitHub profile! 👋</h3>
-</div>
+</div><br>
 
 <p align="center">
   안녕하세요. <br>
@@ -11,7 +11,7 @@
 </p>
 
 ⚙️ Things I code with
-#3776AB
+https://img.shields.io/badge/just%20the%20message-3776AB
 
 
 <!--
