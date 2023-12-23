@@ -33,7 +33,7 @@
 <div style="text-align: left">
 <h3>💭 Project</h3>
 - 팀 프로젝트 : 
-  https://img.shields.io/badge/lg-A50034?style=for-the-badge&logo=LG_HV_vod_recommender_system-&logoColor=black<br>
+<img src="https://img.shields.io/badge/lg-A50034?style=for-the-badge&logo=LG_HV_vod_recommender_system-&logoColor=black">  <br>
 - 개인 프로젝트 : 
 </div>
 
