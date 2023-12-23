@@ -11,7 +11,8 @@
 </p>
 
 ⚙️ Things I code with <br>
-https://shields.io/badge/style-flat-green?logo=appveyor&style=flat-3776AB
+<img src="https://img.shields.io/badge/Python-#3776AB?style=for-the-badge&logo=Python&logoColor=white">
+#3776AB
 
 
 <!--
