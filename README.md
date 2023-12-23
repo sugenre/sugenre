@@ -2,13 +2,6 @@
 
 📊 데이터분석가와 데이터 엔지니어의 꿈을 키워나가고 있습니다.Aspiring a Data Analyst and Data Engineer.
 
-💻 새로운 시각에서 데이터를 보기 위해 노력하고 있습니다. Studying hard to get Data insight through new perspective.
-
-💬 데이터에 관한 이야기라면 언제나 환영입니다. 자유롭게 연락 주세요 :) All kinds of communications regard data is always welcome. Feel free to contact me.
-
-언어 및 도구 / Language & Tools
-
-    Amazon Web Services icon js React js linear icon Django a high-level Python Web framework that encourages rapid development icon 노드-js icon
 
 <!--
 **sugenre/sugenre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
