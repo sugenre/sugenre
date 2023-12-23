@@ -1,6 +1,12 @@
-### Hi there 👋
+### Welcome to my github profile! 👋
 
-📊 데이터분석가와 데이터 엔지니어의 꿈을 키워나가고 있습니다.Aspiring a Data Analyst and Data Engineer.
+안녕하세요.
+데이터분석가와 데이터 엔지니어의 꿈꾸, 항상 배우려는 자세로 학습에 임하고 있습니다.
+배움의 성과뿐만 아니라 과정도 중요하게 여기며 성장하겠습니다.
+😊
+
+⚙️ Things I code with
+#3776AB
 
 
 <!--
