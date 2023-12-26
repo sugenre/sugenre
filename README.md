@@ -11,7 +11,7 @@
 </p>
 
 <div style="text-align: left">
-<h3>⚙️ Stack </h3>
+<h3>⚙️ Stacks </h3>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-plasic&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-plasic&logo=Markdown&logoColor=white"><br>
   
