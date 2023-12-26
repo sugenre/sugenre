@@ -18,7 +18,8 @@
 <img src="https://img.shields.io/badge/pandas-150458?style=for-the-plasic&logo=pandas&logoColor=white">
 <img src="https://img.shields.io/badge/numpy-013243?style=for-the-plasic&logo=numpy&logoColor=white">
 <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-plasic&logo=tensorflow&logoColor=white">
-<img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-plasic&logo=scikitlearn&logoColor=white"><br>
+<img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-plasic&logo=scikitlearn&logoColor=white">
+<img src="https://img.shields.io/badge/keras-D00000?style=for-the-plasic&logo=keras&logoColor=white"><br>
 
 <img src="https://img.shields.io/badge/apacheairflow-017CEE?style=for-the-plasic&logo=apacheairflow&logoColor=white">
 <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-plasic&logo=docker&logoColor=white"><br>
@@ -35,10 +36,8 @@
 
 <div style="text-align: left">
 <h3>💭 Project</h3>
-- 팀 프로젝트 : 
-<img src="https://img.shields.io/badge/LG-A50034?style=for-the-plasic&logo=LG_HV_vod_recommender_system-&logoColor=black">
-<br>
-- 개인 프로젝트 : 
+- 프로젝트 : 
+<img src="https://img.shields.io/badge/LG_HV_vod_recommender_system-A50034?style=for-the-plasic&logo=LG_HV_vod_recommender_system-&logoColor=black&link=https://github.com/LGHV-team1/final-project">
 </div>
 
 
