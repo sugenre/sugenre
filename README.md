@@ -36,13 +36,6 @@
 <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-plasic&logo=slack&logoColor=white">
 </div><br>
 
-<div style="text-align: left">
-    <h3>💭 Project</h3>
-    - 프로젝트 : 
-    <a href="https://github.com/LGHV-team1/final-project">
-        <img src="https://img.shields.io/badge/LG_HV_vod_recommender_system-A50034?style=for-the-plasic&logo=LG&logoColor=black">
-    </a>
-</div>
 
 
 
